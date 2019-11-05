@@ -1,4 +1,8 @@
-## 高能预警 ##
+## 接入OpenIoTHub请移步：
+##### https://github.com/IoTDevice/phicomm_tc1_a1
+#### OpenIoTHub：
+##### https://github.com/OpenIoTHub/OpenIoTHub
+##### 高能预警 ##
 fork的版本号较低，可能存在不少bug，请充分测试后再用于实际场景。
 
 ## 说明 ##
